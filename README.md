@@ -1,6 +1,6 @@
 #Olá, me chamo Luiz Roberto ou pode me chamar de Roberto
 ## Bem vindo ao meu perfil GitHub 👋
-<img height=100px src="gato.gif" />
+<img height=300px src="gato.gif" />
 
 
 
